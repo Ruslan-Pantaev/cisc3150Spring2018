@@ -1,0 +1,70 @@
+Ruslans-Hackintosh-Pro:question6 arpiseaQ$ java TwoCircles
+
+Please enter circle 1's center 2D (x,y) coordinates: 
+enter coordinate 1: 
+1
+enter coordinate 2: 
+1
+enter radius: 
+1
+
+Please enter circle 2's center 2D (x,y) coordinates: 
+enter coordinate 1: 
+1
+enter coordinate 2: 
+1
+enter radius: 
+1
+
+Circle 1's area: 3.141592653589793
+Circle 2's area: 3.141592653589793
+
+Circles are completely within one another!
+
+Ruslans-Hackintosh-Pro:question6 arpiseaQ$ java TwoCircles
+
+Please enter circle 1's center 2D (x,y) coordinates: 
+enter coordinate 1: 
+1
+enter coordinate 2: 
+2
+enter radius: 
+3
+
+Please enter circle 2's center 2D (x,y) coordinates: 
+enter coordinate 1: 
+4
+enter coordinate 2: 
+5
+enter radius: 
+6
+
+Circle 1's area: 28.274333882308138
+Circle 2's area: 113.09733552923255
+
+Circles are overlapping!
+
+Ruslans-Hackintosh-Pro:question6 arpiseaQ$ java TwoCircles
+
+Please enter circle 1's center 2D (x,y) coordinates: 
+enter coordinate 1: 
+1
+enter coordinate 2: 
+2
+enter radius: 
+1
+
+Please enter circle 2's center 2D (x,y) coordinates: 
+enter coordinate 1: 
+45
+enter coordinate 2: 
+67
+enter radius: 
+6
+
+Circle 1's area: 3.141592653589793
+Circle 2's area: 113.09733552923255
+
+Circles are separate!
+
+Ruslans-Hackintosh-Pro:question6 arpiseaQ$ java TwoCircles
