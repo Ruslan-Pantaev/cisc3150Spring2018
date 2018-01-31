@@ -1,0 +1,41 @@
+Ruslans-Hackintosh-Pro:question2 arpiseaQ$ java CircleArea
+Please enter your radius: 
+37
+Circle Area: 4300.840342764427
+Please enter your radius: 
+12
+Circle Area: 452.3893421169302
+Please enter your radius: 
+17
+Circle Area: 907.9202768874502
+Please enter your radius: 
+19
+Circle Area: 1134.1149479459152
+Please enter your radius: 
+4
+Circle Area: 50.26548245743669
+Please enter your radius: 
+7
+Circle Area: 153.93804002589985
+Please enter your radius: 
+10
+Circle Area: 314.1592653589793
+Please enter your radius: 
+111
+Circle Area: 38707.56308487984
+Please enter your radius: 
+234
+Circle Area: 172021.0473399627
+Please enter your radius: 
+345
+Circle Area: 373928.0655935251
+Please enter your radius: 
+1
+Circle Area: 3.141592653589793
+Please enter your radius: 
+0
+Circle Area: 0.0
+Please enter your radius: 
+^Z
+[9]+  Stopped                 java CircleArea
+Ruslans-Hackintosh-Pro:question2 arpiseaQ$ 
