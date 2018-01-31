@@ -1,0 +1,25 @@
+Ruslans-Hackintosh-Pro:question4 arpiseaQ$ java ReadNumFile numbers.txt 
+1
+345
+564
+45645
+456
+45645
+43
+34876
+789789
+76574
+534346
+778
+65
+454
+67
+78
+5
+43
+65
+78
+654
+4
+45
+Ruslans-Hackintosh-Pro:question4 arpiseaQ$ 
