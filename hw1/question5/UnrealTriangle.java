@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class UnrealTriangle {
 
 	// I prefer procedural pgm, so I like using static here
+	// I realize I could have just declared them in main
 	// creating a 2D array to store coordinates for a,b,c
 	// ref <https://stackoverflow.com/questions/12231453/syntax-for-creating-a-two-dimensional-array>
 	private static int[][] coord = new int[3][2];
