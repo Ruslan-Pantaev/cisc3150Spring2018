@@ -1,64 +1,70 @@
-Ruslans-Hackintosh-Pro:question5 arpiseaQ$ java UnrealTriangle
-Please enter three 2D (x,y) coordinates: 
-coordinates 1: 
-2
-3
-coordinates 2: 
-4
-5
-coordinates 3: 
-6
-7
-Side A length: 2.8284271247461903
-Side B length: 5.656854249492381
-Side C length: 2.8284271247461903
-Sorry, your triangle is not real...
+[14:56:56] (master) question1
+// ♥ java Pyramid
+Please enter size of pyramid: 0
 
-Please visit this site to calculate your angles!
-(On Mac, press cmd + double-click to open page from terminal)
+[14:59:10] (master) question1
+// ♥ java Pyramid
+Please enter size of pyramid: 1
 
-https://ostermiller.org/calc/triangle.html
+1
 
-Ruslans-Hackintosh-Pro:question5 arpiseaQ$ java UnrealTriangle
-Please enter three 2D (x,y) coordinates: 
-coordinates 1: 
-12
-3
-coordinates 2: 
-565
-8
-coordinates 3: 
-76
-5
-Side A length: 553.0226035163481
-Side B length: 64.03124237432849
-Side C length: 489.0092023673992
-Your triangle is real!
+[14:59:12] (master) question1
+// ♥ java Pyramid
+Please enter size of pyramid: 2
 
-Please visit this site to calculate your angles!
-(On Mac, press cmd + double-click to open page from terminal)
+      1
+    1 2 1
 
-https://ostermiller.org/calc/triangle.html
+[14:59:16] (master) question1
+// ♥ java Pyramid
+Please enter size of pyramid: 3
 
-Ruslans-Hackintosh-Pro:question5 arpiseaQ$ java UnrealTriangle
-Please enter three 2D (x,y) coordinates: 
-coordinates 1: 
-34
-6
-coordinates 2: 
-8
-78
-coordinates 3: 
-0
--354
-Side A length: 76.55063683601855
-Side B length: 361.6019911449604
-Side C length: 432.07406772450486
-Your triangle is real!
+         1
+       1 2 1
+     1 2 3 2 1
 
-Please visit this site to calculate your angles!
-(On Mac, press cmd + double-click to open page from terminal)
+[14:59:19] (master) question1
+// ♥ java Pyramid
+Please enter size of pyramid: 6
 
-https://ostermiller.org/calc/triangle.html
+                  1
+                1 2 1
+              1 2 3 2 1
+            1 2 3 4 3 2 1
+          1 2 3 4 5 4 3 2 1
+        1 2 3 4 5 6 5 4 3 2 1
 
-Ruslans-Hackintosh-Pro:question5 arpiseaQ$ 
+[14:59:23] (master) question1
+// ♥ java Pyramid
+Please enter size of pyramid: 9
+
+                           1
+                         1 2 1
+                       1 2 3 2 1
+                     1 2 3 4 3 2 1
+                   1 2 3 4 5 4 3 2 1
+                 1 2 3 4 5 6 5 4 3 2 1
+               1 2 3 4 5 6 7 6 5 4 3 2 1
+             1 2 3 4 5 6 7 8 7 6 5 4 3 2 1
+           1 2 3 4 5 6 7 8 9 8 7 6 5 4 3 2 1
+
+[14:59:26] (master) question1
+// ♥ java Pyramid
+Please enter size of pyramid: 13
+
+                                       1
+                                    1  2  1
+                                 1  2  3  2  1
+                              1  2  3  4  3  2  1
+                           1  2  3  4  5  4  3  2  1
+                        1  2  3  4  5  6  5  4  3  2  1
+                     1  2  3  4  5  6  7  6  5  4  3  2  1
+                  1  2  3  4  5  6  7  8  7  6  5  4  3  2  1
+               1  2  3  4  5  6  7  8  9  8  7  6  5  4  3  2  1
+            1  2  3  4  5  6  7  8  9 10  9  8  7  6  5  4  3  2  1
+         1  2  3  4  5  6  7  8  9 10 11 10  9  8  7  6  5  4  3  2  1
+      1  2  3  4  5  6  7  8  9 10 11 12 11 10  9  8  7  6  5  4  3  2  1
+   1  2  3  4  5  6  7  8  9 10 11 12 13 12 11 10  9  8  7  6  5  4  3  2  1
+
+[14:59:33] (master) question1
+// ♥
