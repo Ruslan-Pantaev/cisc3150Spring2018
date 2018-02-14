@@ -1,64 +1,22 @@
-Ruslans-Hackintosh-Pro:question5 arpiseaQ$ java UnrealTriangle
-Please enter three 2D (x,y) coordinates: 
-coordinates 1: 
-2
-3
-coordinates 2: 
-4
-5
-coordinates 3: 
-6
-7
-Side A length: 2.8284271247461903
-Side B length: 5.656854249492381
-Side C length: 2.8284271247461903
-Sorry, your triangle is not real...
+[18:00:05] (master) question3
+// ♥ java CheckPalindrome
+Please enter your word: mom
+yep, mom is a palindrome
 
-Please visit this site to calculate your angles!
-(On Mac, press cmd + double-click to open page from terminal)
+[18:00:12] (master) question3
+// ♥ java CheckPalindrome
+Please enter your word: tommy
+sorry, tommy isn't a palindrome
 
-https://ostermiller.org/calc/triangle.html
+[18:00:17] (master) question3
+// ♥ java CheckPalindrome
+Please enter your word: madamimadam
+yep, madamimadam is a palindrome
 
-Ruslans-Hackintosh-Pro:question5 arpiseaQ$ java UnrealTriangle
-Please enter three 2D (x,y) coordinates: 
-coordinates 1: 
-12
-3
-coordinates 2: 
-565
-8
-coordinates 3: 
-76
-5
-Side A length: 553.0226035163481
-Side B length: 64.03124237432849
-Side C length: 489.0092023673992
-Your triangle is real!
+[18:00:26] (master) question3
+// ♥ java CheckPalindrome
+Please enter your word: 0110
+yep, 0110 is a palindrome
 
-Please visit this site to calculate your angles!
-(On Mac, press cmd + double-click to open page from terminal)
-
-https://ostermiller.org/calc/triangle.html
-
-Ruslans-Hackintosh-Pro:question5 arpiseaQ$ java UnrealTriangle
-Please enter three 2D (x,y) coordinates: 
-coordinates 1: 
-34
-6
-coordinates 2: 
-8
-78
-coordinates 3: 
-0
--354
-Side A length: 76.55063683601855
-Side B length: 361.6019911449604
-Side C length: 432.07406772450486
-Your triangle is real!
-
-Please visit this site to calculate your angles!
-(On Mac, press cmd + double-click to open page from terminal)
-
-https://ostermiller.org/calc/triangle.html
-
-Ruslans-Hackintosh-Pro:question5 arpiseaQ$ 
+[18:00:33] (master) question3
+// ♥ 
