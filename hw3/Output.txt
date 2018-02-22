@@ -1,1 +1,15 @@
 
+[21:39:44] (master) hw3
+// ♥ java MyString
+original word:		aBcDeFgHi
+a.charAt(2):		c
+b.length():		9
+c.substring(2, 8):	cDeFgH
+d.toLowerCase():	abcdefghi
+e.toUpperCase():	ABCDEFGHI
+e.compareTo(d):		-1
+g.getMyString():	aBcDeFgHi
+h.toString():		aBcDeFgHi
+j.valueOf(76):		L
+[21:39:56] (master) hw3
+// ♥ 
