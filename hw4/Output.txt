@@ -1,0 +1,268 @@
+[20:01:29] (master) hw4
+// ♥ java print_2d_chars
+We need to get some data to load up your 2D array...
+Enter how many rows your array will have: 3
+
+Enter length of array[0]: 2
+
+Enter value for index 0: a
+
+Enter value for index 1: b
+
+Enter length of array[1]: 2
+
+Enter value for index 0: c
+
+Enter value for index 1: d
+
+Enter length of array[2]: 2
+
+Enter value for index 0: e
+
+Enter value for index 1: f
+
+Total number of combinations: 8
+ace
+acf
+ade
+adf
+bce
+bcf
+bde
+bdf
+[20:01:38] (master) hw4
+// ♥ java print_2d_chars
+We need to get some data to load up your 2D array...
+Enter how many rows your array will have: 2
+
+Enter length of array[0]: 3
+
+Enter value for index 0: a
+
+Enter value for index 1: b
+
+Enter value for index 2: c
+
+Enter length of array[1]: 5
+
+Enter value for index 0: d
+
+Enter value for index 1: e
+
+Enter value for index 2: f
+
+Enter value for index 3: g
+
+Enter value for index 4: h
+
+Total number of combinations: 15
+ad
+ae
+af
+ag
+ah
+bd
+be
+bf
+bg
+bh
+cd
+ce
+cf
+cg
+ch
+[20:01:58] (master) hw4
+// ♥ java print_2d_chars
+We need to get some data to load up your 2D array...
+Enter how many rows your array will have: 4
+
+Enter length of array[0]: 2
+
+Enter value for index 0: a
+
+Enter value for index 1: b
+
+Enter length of array[1]: 3
+
+Enter value for index 0: c
+
+Enter value for index 1: d
+
+Enter value for index 2: e
+
+Enter length of array[2]: 4
+
+Enter value for index 0: f
+
+Enter value for index 1: g
+
+Enter value for index 2: h
+
+Enter value for index 3: i
+
+Enter length of array[3]: 5
+
+Enter value for index 0: j
+
+Enter value for index 1: k
+
+Enter value for index 2: l
+
+Enter value for index 3: m
+
+Enter value for index 4: n
+
+Total number of combinations: 120
+acfj
+acfk
+acfl
+acfm
+acfn
+acgj
+acgk
+acgl
+acgm
+acgn
+achj
+achk
+achl
+achm
+achn
+acij
+acik
+acil
+acim
+acin
+adfj
+adfk
+adfl
+adfm
+adfn
+adgj
+adgk
+adgl
+adgm
+adgn
+adhj
+adhk
+adhl
+adhm
+adhn
+adij
+adik
+adil
+adim
+adin
+aefj
+aefk
+aefl
+aefm
+aefn
+aegj
+aegk
+aegl
+aegm
+aegn
+aehj
+aehk
+aehl
+aehm
+aehn
+aeij
+aeik
+aeil
+aeim
+aein
+bcfj
+bcfk
+bcfl
+bcfm
+bcfn
+bcgj
+bcgk
+bcgl
+bcgm
+bcgn
+bchj
+bchk
+bchl
+bchm
+bchn
+bcij
+bcik
+bcil
+bcim
+bcin
+bdfj
+bdfk
+bdfl
+bdfm
+bdfn
+bdgj
+bdgk
+bdgl
+bdgm
+bdgn
+bdhj
+bdhk
+bdhl
+bdhm
+bdhn
+bdij
+bdik
+bdil
+bdim
+bdin
+befj
+befk
+befl
+befm
+befn
+begj
+begk
+begl
+begm
+begn
+behj
+behk
+behl
+behm
+behn
+beij
+beik
+beil
+beim
+bein
+[20:02:47] (master) hw4
+// ♥ java print_2d_chars
+We need to get some data to load up your 2D array...
+Enter how many rows your array will have: 1
+
+Enter length of array[0]: 1
+
+Enter value for index 0: a
+
+Total number of combinations: 1
+a
+[20:03:07] (master) hw4
+// ♥ java print_2d_chars
+We need to get some data to load up your 2D array...
+Enter how many rows your array will have: 1
+
+Enter length of array[0]: 2
+
+Enter value for index 0: a
+
+Enter value for index 1: b
+
+Total number of combinations: 2
+a
+b
+[20:03:21] (master) hw4
+// ♥ java print_2d_chars
+We need to get some data to load up your 2D array...
+Enter how many rows your array will have: 0
+
+Total number of combinations: 0
+[20:04:08] (master) hw4
+// ♥ 
