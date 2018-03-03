@@ -46,8 +46,7 @@ public final class Version2 extends CircleArea {
 		// ref <https://www.geeksforgeeks.org/find-if-a-point-lies-inside-or-on-circle/>
 		if (Math.sqrt(Math.pow(this.coord[0], 2) + Math.pow(this.coord[1], 2)) <= this.radius)
 			return true;
-		else
-			return false;
+		return false;
 	}
 
 	public void genCoords() {
