@@ -1,0 +1,10 @@
+[12:49:59] (master) question2
+// ♥ java Question2
+Woof, woof, woof!
+I'm a cat, go away!
+Pet@7852e922
+woof!
+Come here, kitty? ... Don't waste my time.
+four
+[12:53:29] (master) question2
+// ♥ 

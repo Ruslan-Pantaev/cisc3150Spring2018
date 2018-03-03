@@ -1,0 +1,5 @@
+// ♥ java Version1
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at Version1.<clinit>(Version1.java:59)
+[12:14:14] (master) question1
+// ♥ 

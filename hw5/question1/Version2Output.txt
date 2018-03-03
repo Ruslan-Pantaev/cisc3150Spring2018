@@ -1,0 +1,89 @@
+[12:23:18] (master) question1
+// ♥ java Version2 4
+radius:			4.000000
+circle area:		50.265482
+square area:		16.000000
+circle quadrant area:	12.566371
+quad to sq area ratio:	1:1.273240
+
+iterations:		4000000000
+running thread count:	8
+
+dots in circle quad:	3141604259
+estimation of PI:	3.141604
+runtime:		9245ms
+[12:36:51] (master) question1
+// ♥ java Version2 1
+radius:			1.000000
+circle area:		3.141593
+square area:		1.000000
+circle quadrant area:	0.785398
+quad to sq area ratio:	1:1.273240
+
+iterations:		4000000000
+running thread count:	8
+
+dots in circle quad:	3141539588
+estimation of PI:	3.141540
+runtime:		9247ms
+[12:38:51] (master) question1
+// ♥ java Version2 3.14
+radius:			3.140000
+circle area:		30.974847
+square area:		9.859600
+circle quadrant area:	7.743712
+quad to sq area ratio:	1:1.273240
+
+iterations:		4000000000
+running thread count:	8
+
+dots in circle quad:	3141549221
+estimation of PI:	3.141549
+runtime:		9221ms
+[12:39:20] (master) question1
+// ♥ java Version2 0
+Please provide a radius > 0
+[12:40:25] (master) question1
+// ♥ java Version2 7.3
+radius:			7.300000
+circle area:		167.415473
+square area:		53.290000
+circle quadrant area:	41.853868
+quad to sq area ratio:	1:1.273240
+
+iterations:		4000000000
+running thread count:	8
+
+dots in circle quad:	3141639696
+estimation of PI:	3.141640
+runtime:		9169ms
+[12:40:41] (master) question1
+// ♥ java Version2 97.3576
+radius:			97.357600
+circle area:		29777.593123
+square area:		9478.502278
+circle quadrant area:	7444.398281
+quad to sq area ratio:	1:1.273240
+
+iterations:		4000000000
+running thread count:	8
+
+dots in circle quad:	3141587567
+estimation of PI:	3.141588
+runtime:		9126ms
+[12:41:25] (master) question1
+// ♥ java Version2 99999999
+radius:			99999999.000000
+circle area:		31415925907579400.000000
+square area:		9999999800000000.000000
+circle quadrant area:	7853981476894850.000000
+quad to sq area ratio:	1:1.273240
+
+iterations:		4000000000
+running thread count:	8
+
+dots in circle quad:	3141574363
+estimation of PI:	3.141574
+runtime:		9238ms
+[12:41:44] (master) question1
+// ♥ 
