@@ -1,0 +1,22 @@
+// ♥ java Version3
+running thread count:	8
+
+dots in circle quad:	3141578226
+estimation of PI:	3.141578
+runtime:		8832ms
+[19:27:29] (master) question1
+// ♥ java Version3
+running thread count:	8
+
+dots in circle quad:	3141597217
+estimation of PI:	3.141597
+runtime:		9071ms
+[19:28:35] (master) question1
+// ♥ java Version3
+running thread count:	8
+
+dots in circle quad:	3141611273
+estimation of PI:	3.141611
+runtime:		8994ms
+[19:29:00] (master) question1
+// ♥ 
