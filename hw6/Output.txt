@@ -1,0 +1,168 @@
+[10:27:17] (master) hw6
+// ♥ java n_queens
+enter n-queens board size:0
+no possible solutions
+[10:27:23] (master) hw6
+// ♥ java n_queens
+enter n-queens board size:1
+ _ 
+|Q|
+row: 0 col: 0
+queens.size(): 1
+
+runtime:	1869ms
+[10:27:27] (master) hw6
+// ♥ java n_queens
+enter n-queens board size:2
+no possible solutions
+[10:27:34] (master) hw6
+// ♥ java n_queens
+enter n-queens board size:3
+no possible solutions
+[10:27:38] (master) hw6
+// ♥ java n_queens
+enter n-queens board size:4
+ _ _ _ _ 
+|_|Q|_|_|
+|_|_|_|Q|
+|Q|_|_|_|
+|_|_|Q|_|
+row: 0 col: 1
+row: 1 col: 3
+row: 2 col: 0
+row: 3 col: 2
+queens.size(): 4
+
+runtime:	1992ms
+[10:27:44] (master) hw6
+// ♥ java n_queens
+enter n-queens board size:5
+ _ _ _ _ _ 
+|Q|_|_|_|_|
+|_|_|Q|_|_|
+|_|_|_|_|Q|
+|_|Q|_|_|_|
+|_|_|_|Q|_|
+row: 0 col: 0
+row: 1 col: 2
+row: 2 col: 4
+row: 3 col: 1
+row: 4 col: 3
+queens.size(): 5
+
+runtime:	2828ms
+[10:27:51] (master) hw6
+// ♥ java n_queens
+enter n-queens board size:6
+ _ _ _ _ _ _ 
+|_|Q|_|_|_|_|
+|_|_|_|Q|_|_|
+|_|_|_|_|_|Q|
+|Q|_|_|_|_|_|
+|_|_|Q|_|_|_|
+|_|_|_|_|Q|_|
+row: 0 col: 1
+row: 1 col: 3
+row: 2 col: 5
+row: 3 col: 0
+row: 4 col: 2
+row: 5 col: 4
+queens.size(): 6
+
+runtime:	3850ms
+[10:28:14] (master) hw6
+// ♥ java n_queens
+enter n-queens board size:7
+ _ _ _ _ _ _ _ 
+|Q|_|_|_|_|_|_|
+|_|_|Q|_|_|_|_|
+|_|_|_|_|Q|_|_|
+|_|_|_|_|_|_|Q|
+|_|Q|_|_|_|_|_|
+|_|_|_|Q|_|_|_|
+|_|_|_|_|_|Q|_|
+row: 0 col: 0
+row: 1 col: 2
+row: 2 col: 4
+row: 3 col: 6
+row: 4 col: 1
+row: 5 col: 3
+row: 6 col: 5
+queens.size(): 7
+
+runtime:	1988ms
+[10:28:25] (master) hw6
+// ♥ java n_queens
+enter n-queens board size:10
+ _ _ _ _ _ _ _ _ _ _ 
+|Q|_|_|_|_|_|_|_|_|_|
+|_|_|Q|_|_|_|_|_|_|_|
+|_|_|_|_|_|Q|_|_|_|_|
+|_|_|_|_|_|_|_|Q|_|_|
+|_|_|_|_|_|_|_|_|_|Q|
+|_|_|_|_|Q|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|Q|_|
+|_|Q|_|_|_|_|_|_|_|_|
+|_|_|_|Q|_|_|_|_|_|_|
+|_|_|_|_|_|_|Q|_|_|_|
+row: 0 col: 0
+row: 1 col: 2
+row: 2 col: 5
+row: 3 col: 7
+row: 4 col: 9
+row: 5 col: 4
+row: 6 col: 8
+row: 7 col: 1
+row: 8 col: 3
+row: 9 col: 6
+queens.size(): 10
+
+runtime:	3217ms
+[10:28:34] (master) hw6
+// ♥ java n_queens
+enter n-queens board size:20
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+|Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|Q|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|Q|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|Q|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|Q|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|Q|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|Q|_|_|_|
+|_|_|_|_|_|_|_|_|Q|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|Q|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|Q|_|
+|_|_|_|_|_|_|_|Q|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|Q|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|Q|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|_|_|_|Q|_|_|_|_|_|_|
+|_|_|_|_|_|Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|_|_|Q|_|_|_|_|_|_|_|_|_|
+row: 0 col: 0
+row: 1 col: 2
+row: 2 col: 4
+row: 3 col: 1
+row: 4 col: 3
+row: 5 col: 12
+row: 6 col: 14
+row: 7 col: 11
+row: 8 col: 17
+row: 9 col: 19
+row: 10 col: 16
+row: 11 col: 8
+row: 12 col: 15
+row: 13 col: 18
+row: 14 col: 7
+row: 15 col: 9
+row: 16 col: 6
+row: 17 col: 13
+row: 18 col: 5
+row: 19 col: 10
+queens.size(): 20
+
+runtime:	6326ms
+[10:28:44] (master) hw6

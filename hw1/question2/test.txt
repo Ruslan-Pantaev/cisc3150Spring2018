@@ -1,0 +1,20 @@
+Please enter your radius: 
+Circle Area: 50.26548245743669
+Please enter your radius: 
+Circle Area: 50.26548245743669
+Please enter your radius: 
+Circle Area: 50.26548245743669
+Please enter your radius: 
+Circle Area: 50.26548245743669
+Please enter your radius: 
+Circle Area: 50.26548245743669
+Please enter your radius: 
+Please enter your radius: 
+Circle Area: 50.26548245743669
+Please enter your radius: 
+Circle Area: 28.274333882308138
+Please enter your radius: 
+Circle Area: 12.566370614359172
+Please enter your radius: 
+Circle Area: 12.566370614359172
+Please enter your radius: 

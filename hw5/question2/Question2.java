@@ -33,7 +33,7 @@ public class Question2 {
 		System.out.println(c);
 		// I'm a cat, go away!
 		// Method Called:	G
-		// Example of:		overriding/polymorphism, overloading
+		// Example of:		overriding/polymorphism
 
 		// c)
 		Object v = new Pet();
@@ -41,7 +41,8 @@ public class Question2 {
 		// error: cannot find symbol System.out.println(v.call());
 		// Method Called:	Error
 		// Example of:		error
-		// 		thought this would work actually
+		// 		compiler sees declared type as object, no cal() in object
+		// 		casting would fix it
 
 		// d)
 		Pet p = new Pet();
@@ -49,6 +50,7 @@ public class Question2 {
 		// Pet@7852e922
 		// Method Called:	Method from class object
 		// Example of:		overriding/polymorphism
+		// 		pet inherits from object, so toString is called
 
 		// e)
 		Pet q = new Dog();
