@@ -1,2 +1,3 @@
 # cisc3150_Spring_2018
-Googly eyes rule
+
+ * cisc3150 OOP class assignments
