@@ -1,0 +1,11 @@
+// ♥ java n_queensV2
+enter n-queens board size:0
+no possible solutions
+// ♥ java n_queensV2
+enter n-queens board size:1
+ _ 
+|Q|
+row: 0 col: 0
+queens.size(): 1
+
+runtime:	635ms
