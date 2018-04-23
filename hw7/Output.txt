@@ -1,0 +1,113 @@
+[14:17:07] (master) hw7
+// ♥ java JavaCalculator 7 / 3 + \( 5 % 2 ^ 7 \)
+Performing: 7.0/3.0
+Result: 2.3333333333333335
+Performing: 2.0^7.0
+Result: 128.0
+Performing: 5.0%128.0
+Result: 5.0
+Performing: 2.3333333333333335+5.0
+Result: 7.333333333333334
+
+args length:  11
+postfix:  7 3 / 5 2 7 ^ % + 
+result:   7.333333
+
+[14:19:03] (master) hw7
+// ♥ java JavaCalculator 7 / 3 + \( 5 % 2 / 7 \)
+Performing: 7.0/3.0
+Result: 2.3333333333333335
+Performing: 5.0%2.0
+Result: 1.0
+Performing: 1.0/7.0
+Result: 0.14285714285714285
+Performing: 2.3333333333333335+0.14285714285714285
+Result: 2.4761904761904763
+
+args length:  11
+postfix:  7 3 / 5 2 % 7 / + 
+result:   2.476190
+
+[14:19:11] (master) hw7
+// ♥ java JavaCalculator 7 ^ 13 / 3 + \( 5 % 2 / 7 \)
+Performing: 7.0^13.0
+Result: 9.6889010407E10
+Performing: 9.6889010407E10/3.0
+Result: 3.2296336802333332E10
+Performing: 5.0%2.0
+Result: 1.0
+Performing: 1.0/7.0
+Result: 0.14285714285714285
+Performing: 3.2296336802333332E10+0.14285714285714285
+Result: 3.229633680247619E10
+
+args length:  13
+postfix:  7 13 ^ 3 / 5 2 % 7 / + 
+result:   32296336802.476190
+
+[14:19:21] (master) hw7
+// ♥ java JavaCalculator 2 + 3
+Performing: 2.0+3.0
+Result: 5.0
+
+args length:  3
+postfix:  2 3 + 
+result:   5.000000
+
+[14:19:29] (master) hw7
+// ♥ java JavaCalculator 2 - 3
+Performing: 2.0-3.0
+Result: -1.0
+
+args length:  3
+postfix:  2 3 - 
+result:   -1.000000
+
+[14:19:35] (master) hw7
+// ♥ java JavaCalculator 2 % 3
+Performing: 2.0%3.0
+Result: 2.0
+
+args length:  3
+postfix:  2 3 % 
+result:   2.000000
+
+[14:19:45] (master) hw7
+// ♥ java JavaCalculator 2 \* 3
+Performing: 2.0*3.0
+Result: 6.0
+
+args length:  3
+postfix:  2 3 * 
+result:   6.000000
+
+[14:19:53] (master) hw7
+// ♥ java JavaCalculator 2 / 3
+Performing: 2.0/3.0
+Result: 0.6666666666666666
+
+args length:  3
+postfix:  2 3 / 
+result:   0.666667
+
+[14:20:01] (master) hw7
+// ♥ java JavaCalculator 2 ^ 3
+Performing: 2.0^3.0
+Result: 8.0
+
+args length:  3
+postfix:  2 3 ^ 
+result:   8.000000
+
+[14:20:51] (master) hw7
+// ♥ java JavaCalculator 2 ^ 3  + \( 4 + 7 \)
+Performing: 2.0^3.0
+Result: 8.0
+Performing: 4.0+7.0
+Result: 11.0
+Performing: 8.0+11.0
+Result: 19.0
+
+args length:  9
+postfix:  2 3 ^ 4 7 + + 
+result:   19.000000
