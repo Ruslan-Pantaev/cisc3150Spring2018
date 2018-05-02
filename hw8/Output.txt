@@ -1,0 +1,331 @@
+[18:16:15] (master) hw8
+// ♥ java DirTree
+/Users/Ruslan/Documents/BC_Spring_18/java/cisc3150_Spring_2018-master
+|___hw6.zip
+|   |___question4.txt
+|   |___.DS_Store
+|   |   |___CheckPalindrome.java
+|   |   |___CheckPalindrome.class
+|   |   |___Output.txt
+|   |   |___Calendar.java
+|   |   |___Calendar.class
+|   |   |___Output.txt
+|   |   |___Tokenize.java
+|   |   |___Tokenize.class
+|   |   |___Output.txt
+|   |   |___TokenizeChar.class
+|   |   |___TokenizeChar.java
+|   |   |___Output.txt
+|   |   |___Pyramid.java
+|   |   |___Pyramid.class
+|   |   |___Output.txt
+|   |___.DS_Store
+|   |   |___Dog.class
+|   |   |___Question2.java
+|   |   |___Cat.class
+|   |   |___Pet.class
+|   |   |___Question2.class
+|   |   |___Output.txt
+|   |   |___Version3Output.txt
+|   |   |___Version3.class
+|   |   |___.DS_Store
+|   |   |___ThreadTask.class
+|   |   |___Version2.java
+|   |   |___Version2Output.txt
+|   |   |___Version3.java
+|   |   |___Version1Output.txt
+|   |   |___CircleArea.java
+|   |   |___Version1.java
+|___hw7.zip
+|___hw5.zip
+|   |___print_2d_chars.class
+|   |___print_2d_chars.java
+|   |___Output.txt
+|   |___MyString.java
+|   |___MyString.class
+|   |___Output.txt
+|___hw4.zip
+|___.DS_Store
+|___hw3.zip
+|___test.class
+|___hw2.zip
+|___README.md
+|   |___n_queens$IntPair.class
+|   |___n_queensV2.class
+|   |___n_queensV2$IntPair.class
+|   |___n_queens.class
+|   |___v2-Output.txt
+|   |___n_queensV2.java
+|   |___n_queens.java
+|   |___v1-Output.txt
+|   |___.DS_Store
+|   |___question1.txt
+|   |   |___numbers.txt
+|   |   |___ReadNumFile.java
+|   |   |___Output.txt
+|   |   |___RandMonth.java
+|   |   |___Output.txt
+|   |   |___CircleArea.class
+|   |   |___newfile.txt
+|   |   |___CircleArea.java
+|   |   |___test.txt
+|   |   |___Output.txt
+|   |   |___UnrealTriangle.java
+|   |   |___Output.txt
+|   |   |___TwoCircles.java
+|   |   |___Output.txt
+|   |___test.class
+|   |___DirTree.class
+|   |___test.java
+|   |___DirTree.java
+|   |___DirTree$PrintFiles.class
+|   |___Output.txt
+|___test.java
+|   |___.DS_Store
+|   |___JavaCalculator.class
+|   |___JavaCalculator.java
+|   |___Output.txt
+|___googly_eyes_2.JPG
+|___googly_eyes_3.JPG
+|   |___ORIG_HEAD
+|   |___config
+|   |   |   |___e7bfd3a231627edd8c7f54782208076f4b7483
+|   |   |   |___b5d8615103650d4b3e49608c50235a0c44b2f9
+|   |   |   |___dc2a2b5bb3ef78d70ddf41b38cc6762d60971e
+|   |   |   |___032cf13e9673bc4eefbae3c45e1ed5227f0be5
+|   |   |   |___2a903b5c56427633dfc761ec05b9a11dc24c4e
+|   |   |   |___d9692a2b9cbcceb9877a73e2677006323bc214
+|   |   |   |___c2a3035c6bd28d5a022859c8d91666a8fb0390
+|   |   |   |___30398e6eb2e0b609913c67819ffcbcc532618b
+|   |   |   |___96df6a948a33948b167c57e86fe925066bed0d
+|   |   |   |___08ddfcf53c02e82d7eee2e57c38e5672ef89f6
+|   |   |   |___57e56d30acaa898626766ea791f68ad5bece2b
+|   |   |   |___9946860c16b016356d270ae5a8a49142b83752
+|   |   |   |___3da35918a8cb7782b8f6fa25219a245b6557ae
+|   |   |   |___802abe737c1458d9a514a4fad75690880c898c
+|   |   |   |___9131616a59fdd370ecea88722936061c491eed
+|   |   |   |___a7ebd839bdbe910d99707caf48a4e21a39ec5f
+|   |   |   |___71546d506fe9ef16ce7d1f27392e4d6e735448
+|   |   |   |___74c5b73da6b936dade4de1b13f5e9d32814e8b
+|   |   |   |___349772eae81d7963e6f0367d9c43126ee134df
+|   |   |   |___4b8a67bd9571dd90b420fe113bac896785f599
+|   |   |   |___7648089a869b52100fbea85bc5b85d608255f1
+|   |   |   |___97af376055457e43ea3b0db1e503c7f708065e
+|   |   |   |___6d12ba2fae171c821d42f5d0f51d15eadbf3b4
+|   |   |   |___152d05549f6a2b512e3326af6f56a085aefde5
+|   |   |   |___707f9a2205dfff4876818537761108132375fa
+|   |   |   |___1018781fbd6f0f55c4b6cf11f3287850543299
+|   |   |   |___7f5003a5909d4a93e093f3c30cd4f731e239c3
+|   |   |   |___a2ae1743ea85799a5c71a3e3dffc99e3e733fc
+|   |   |   |___821999c74cde46d6a958b44ab4afe3e3893edf
+|   |   |   |___b294df7bb0954ad74298024ee04397f6c708c9
+|   |   |   |___b90fa10c4d846486d96013829ec9e53972bcab
+|   |   |   |___5770f1f59114065b20c36c5b88a382d64923ea
+|   |   |   |___452c602a29f98b7e502321ea8c0832d6e63be0
+|   |   |   |___eb5cdc3913e2a1a4ff68701b4b4865f083e476
+|   |   |   |___a15fd87a4a42696bdbf8229b9cbb6e0d40fb17
+|   |   |   |___8162bcb29c42870981609d199e3e146138460d
+|   |   |   |___c8a5a0dff4dc0e96b3e08c90fd54d9bf6eacba
+|   |   |   |___41a126579114fd11a538cac00ca9d6d6a67157
+|   |   |   |___6df8d67740af58b9ef7a51b36c9de636b0e0bb
+|   |   |   |___86b6b7e907cc6dc8d02836b475419e585f85ea
+|   |   |   |___d18fb55363cf6ad070a0126e576d61199d7540
+|   |   |   |___e3d71a62a8886c982eb0ee184291e391a38cb2
+|   |   |   |___788563a05a88fce6348c75bd11e3e6aea2b466
+|   |   |   |___9b1c0eeb09d4e29769e18a2e88fa7041dfd294
+|   |   |   |___ca79f6969c61913a9755ee47f6bca7f25f0580
+|   |   |   |___ee9f384328de70cdcaa9722b5731f3c0f3dd78
+|   |   |   |___6a1dd10f9fb2530fb87fe61d12d4327de5dcdf
+|   |   |   |___286486dca71ab6ab4b819a41f5b7f8b9b89f8c
+|   |   |   |___258f3c33110bfd205b534d69e0f30c37a974d9
+|   |   |   |___bcfa3297c9afdb4dbde98d56eda4b43c425e07
+|   |   |   |___004b067ad568b95e3976757faa831acba926ac
+|   |   |   |___1ad2712597128f9f99e128c5db1c1bb6931aee
+|   |   |   |___2419418cb46cfd8728bd9b3f0862d323ead12c
+|   |   |   |___f570c537b4a6effb1cb7bd8c0364f2234e8bec
+|   |   |   |___cb3d9843a68eecc7a07a1010c6ecafcbf12614
+|   |   |   |___d57d839ed72f799ee28e274e7345a6d38d17b1
+|   |   |   |___46e446cc4e9c305b53f8be86a103866ebd98a4
+|   |   |   |___30860b56866fea4929bc6be4d2c469e603c188
+|   |   |   |___1a6951476c18f2bae3c3f391a8b6b9065123a2
+|   |   |   |___744bcedacd3c3993712d487b09d5926c811695
+|   |   |   |___a10d62577028f843d373755b041f240c06ac09
+|   |   |   |___263144a716580f00f050dc904afbd6197556dd
+|   |   |   |___a7312855a255b0fe3c9a404a994df0e825533f
+|   |   |   |___d4c0ec8b2a35358ad216689def0b4cdae96d48
+|   |   |   |___2c014690579c6124537711daefb3729121fe7e
+|   |   |   |___1a38461a95ee218fc87cb52796d6823b099471
+|   |   |   |___f800cbb7408f64bc54a4b7e2aa12226e4e41a2
+|   |   |   |___6ae5cdfcb7f265294947f9520075f9a8a161b1
+|   |   |   |___5b535f857c2a90b97ddfc3b560c50e37d4ff78
+|   |   |   |___7aea242d10cccaf80041925827d2be3b6991f4
+|   |   |   |___b05611fe98d50a03d162b7b79a9c4f3429b2c4
+|   |   |   |___28ec35f215e27b17dcb6b811851efed6b958db
+|   |   |   |___cd5ea51749331708832eb8a62de7b0fafd0be3
+|   |   |   |___38dd661de6c3c7711aba02de4f7a55052acaf0
+|   |   |   |___dfd87b94795322e1ce522a61175ef4b7cdc52b
+|   |   |   |___9bec6a4dbf383274f0311913bcecb82ac81323
+|   |   |   |___52723e93fe2e53fee2d88e44b301f0b361bd5b
+|   |   |   |___8878d9af74672b1950147112df512f4f263d7e
+|   |   |   |___7c987bfce328ee3c471ee2569a63f53787a565
+|   |   |   |___53a79512013d1d92200468de4bc52319696ad0
+|   |   |   |___9e0e0c0d4ba136290ab82f655755e8f4919a63
+|   |   |   |___pack-6271a5aa71344cb0d44e62e512c8b4f5faf74893.pack
+|   |   |   |___pack-6271a5aa71344cb0d44e62e512c8b4f5faf74893.idx
+|   |   |   |___cd1de4863623a3dc96cc618a5d3b6144ee2601
+|   |   |   |___79d332858da236eed27b4346eb23eff5e9d200
+|   |   |   |___6396171eaf293dd3099a197fdbe77a6884317d
+|   |   |   |___e427ba927f7ecea724c3d61df6ac0f0fe6c23a
+|   |   |   |___de244b99a7212759fab80e22c5fc0c5f10014b
+|   |   |   |___071faaac5cfd0f80efe6458295cda25b5e3b9b
+|   |   |   |___93d8fa1274bcbd2c216f12574822902051edac
+|   |   |   |___183970f0451350a2d3356f6d40d6f9c28172d4
+|   |   |   |___2c654311faacd026a2f68fb5bd6d67b971351f
+|   |   |   |___34d2bd6baa7ec38bdb6da91023d422e2bf87f4
+|   |   |   |___72cc94b26ade4951a9e5ff823e2f06e31a04b9
+|   |   |   |___07dace41fe8b4e808a261d680dd180d6ac4e56
+|   |   |   |___5d40745e40fd5c88a5843fb22d37b53019fed5
+|   |   |   |___3169d28407661e9a51320becad244e0136ab2e
+|   |   |   |___086cb4788a57a8bbbdf97328f03f40c3761060
+|   |   |   |___deea8fdd0c65739afec4736df83cbb2f64152e
+|   |   |   |___57df0434d2fcd34eb6cb76f80ca298d6e2d213
+|   |   |   |___1e5025d5b4bdf3404532ef136abcef0474d037
+|   |   |   |___ed9950d28dffa107e5fe692c5b4ef0965f3718
+|   |   |   |___10d85e0f195e9ff918033af0d98cf9ce85d8c5
+|   |   |   |___28e41c103c66ab4f74fb03ca89c345df3a537c
+|   |   |   |___7e4c1b523de302471bcf6167a5959591a60205
+|   |   |   |___4d1a5318d16399d822c8cef9e29665ae2c8c60
+|   |   |   |___8b8b4779447c96cffa2e182bd1a568e811c5cc
+|   |   |   |___5befabd281ab7852eb3310e74b6c3c836c03f7
+|   |   |   |___ba9f5fa6ab5038b39a80dec13b90ab3e36c235
+|   |   |   |___b3a863561accfe3ccdb572eaecd27557d14304
+|   |   |   |___c0ec13cfa0ab4555e656b6b3071d81c8c5e1af
+|   |   |   |___b07cbf015e7b4c276ff5ef71a729b6b7ec7859
+|   |   |   |___668b0e3e6cf4145b0ed08dfcc8aae8f514f5c1
+|   |   |   |___c97f1c8823c654ff6265aa04721c4911f62265
+|   |   |   |___f7727efeac5005eaee1463f7ada320521278f1
+|   |   |   |___facb49cfed70246a97e9019676116c3a36eb31
+|   |   |   |___e0f3f44ab8b946344fc168cfe8fc29ad55e85b
+|   |   |   |___7e41472d810408103519dd16ba1a21394b64b8
+|   |   |   |___2f8beff6a074313293aaef340377417acd6f86
+|   |   |   |___179b2cc8619fdbbf3f52f0b7fe5df5db205645
+|   |   |   |___70f1731f3f313d042220a5717fa48c5108a807
+|   |   |   |___3888b1f4cf3851dd6a8b90964ca6a50882f85c
+|   |   |   |___ab29f5d68ee429fc00ebb7370ca4f39950a02b
+|   |   |   |___15753b3eec4d5474c394987810d214a72b753f
+|   |   |   |___a6bc2ccb0c67dbd33e9064471edd4d80f31502
+|   |   |   |___1272646b4831b46b433fc5d4be67005c7fefcb
+|   |   |   |___61846f62488bb9c8f592ddb885df5ab3069fbe
+|   |   |   |___12419eb033e80542bc33bdfa4e05c7f5c79aec
+|   |   |   |___b31358ce1a77524dcf1d4de6418413806ce170
+|   |   |   |___94d574b50622f80e7116ccdf07baed4f770e43
+|   |   |   |___1405c6f0341aac1fefa53d25e2e6bd226b8209
+|   |   |   |___6f710e7f3d2c9c96de038e6199b3f055b3310e
+|   |   |   |___fe57b39abe1735c84a01b58c323da8ea9f21e5
+|   |   |   |___a585eb28b87a65b72869f329ce83881b5e64d4
+|   |   |   |___af849242855eb25b323a675b73c4bd96ba3879
+|   |   |   |___5a6a69c4a01aa5b723df632007c37d080b87a3
+|   |   |   |___d81d7ddab2df0a602cadc9123111c612125644
+|   |   |   |___85c3b15692423e37e9252dfcabc4b542a17395
+|   |   |   |___4cfc06b11b5f747a759d92f4c013e359e120fb
+|   |   |   |___3cd0373836d29f2e90100610157ebb5f0b6bc4
+|   |   |   |___0a6994a05109669aed8023587909c16b85d952
+|   |   |   |___d1857ac03540da9dfdd649eedffa47d4b1f8e4
+|   |   |   |___f3dfe13a32a83e32676726657be5af7b384292
+|   |   |   |___4db037cd06d596b2f29cbcc6cbede00fe65df4
+|   |   |   |___1be83dddecd9a58ae86f0318f43f98af911b42
+|   |   |   |___b4805fcaa414ed443751f4db172326a04e9ee5
+|   |   |   |___e68eb7839e3da3f47cfdeed5a36ec0340ec747
+|   |   |   |___70c526243db2d1914a578dd92432decb5964c4
+|   |   |   |___6896fd0b7759260a4d60d732a7bc6c74620735
+|   |   |   |___2816789254588911fbdced2820d9a65e41b6f1
+|   |   |   |___26aadd425a3da3ed09f2d0a024468f24811890
+|   |   |   |___9e7fc6c985df29145d5c8fbfb7689ab135f412
+|   |   |   |___d88ea7e49acfde17631783ee3051e91524277b
+|   |   |   |___4b60fa75e4b35d9e915ff08c3f8ce0de016ed2
+|   |   |   |___bd22e761fc9c42518a31799f34840c3d6095db
+|   |   |   |___447620b56fbdb69cec2aa33a80de56eb26673a
+|   |   |   |___169124df9086f793a99556290808155935a396
+|   |   |   |___5f352fdb484b35fa2b4a3f2097e086a4b92de6
+|   |   |   |___77ab1bc67738598a9908eda79ea632949df574
+|   |   |   |___59a75c6a19816f4cf868653443f0b77af2b3ae
+|   |   |   |___4fe954aa0ac7f1821e61b9846ded9967fdbe0f
+|   |   |   |___7b77cbdda5cb2b4c4253424643fe30248bc732
+|   |   |   |___8bb056e7160f922a500fe62df21111f64d8594
+|   |   |   |___233c9c81f420ef11a56b75b9cc1838b5949ca5
+|   |   |   |___d21ba9daa605184fcf2d140046044851f617d9
+|   |   |   |___d1f3eeca970bea85aa4fae2ea5b65dd0960e49
+|   |   |   |___f0a41d62cd7df08ee35afd8e44fac139a3c3af
+|   |   |   |___8c4a9364bd487e27e580317aa8b83b8eef6854
+|   |   |   |___3a11b0ab3f16825c03a6a21045c81b1d17338b
+|   |   |   |___64d409be914e7063620f3b2d170f5125909a96
+|   |   |   |___dce641668e69ea9b938499b4b3073912a88efa
+|   |   |   |___bf9bf10a4da5ffe12c310277f7f69cdf5458bb
+|   |   |   |___18fbd63c72fda2bb163f26ea3271ac68cca672
+|   |   |   |___b5b76d8718b91737c077d1616b5b49d67362ed
+|   |   |   |___839b05450183f1f291f67d1003993aafad2fff
+|   |   |   |___6e9afd2a2995b298e55c76c082460c156eddd7
+|   |   |   |___644a71f7abe267cddcf7daec19383bc6929e5d
+|   |   |   |___1e0b49be684881b5e63c8207d47b20d39ed606
+|   |   |   |___97a1916756ad148a758b346b711e0167587582
+|   |   |   |___58cb90c56164dd2df51f9081252ecf38fd1b1b
+|   |   |   |___e588f78c549fe70b3650d86b609877ec48838f
+|   |   |   |___18a525c4618e33a69c19df2930a022fadc028a
+|   |   |   |___c970f53e621ca8713a386ff687a7ab5ed6a1a3
+|   |   |   |___1cb164ff78529d536151447c1b12fa72be9dbd
+|   |   |   |___3a55862508463b688f9e9c4059dc0ca1a4a09f
+|   |   |   |___8968a61c5f993f06dfa5d6086ab3b3b7abc9dd
+|   |   |   |___5fd0caae37706731223862e06eb9cf5cacc14f
+|   |   |   |___f3441fe378ca7a2480fdfdc2e4da0f2d3ac67a
+|   |   |   |___039e16bfc5e34471d8839a062857aa7f75f454
+|   |   |   |___24509a9195f528beb23a0f19610989562ef319
+|   |   |   |___462f25609dfdf3a50055f7aba3b4064d2280b8
+|   |   |   |___e263c71f2425857797de0db9ac5bd11554b4d8
+|   |   |   |___25faf114d7bbd19eaf75555c447ac957662873
+|   |   |   |___cbc7777ba2160b9b825508c64ba6392ae86260
+|   |   |   |___667285221b80c1edbffc313ab43e5c379f052f
+|   |   |   |___8dd4cf0387218d1ddd908433be43b6fdd386af
+|   |   |   |___479ffcb7ab851cd17d7ad4d328df72cb4cc88f
+|   |   |   |___8941b9d4e6c70050334f8df36e23db4eedd2e2
+|   |   |   |___06c6d053c46e7571412de5abf818e875678adf
+|   |   |   |___5c09244ee112d3d7515945547d76c187e5839d
+|   |   |   |___ca2af634c186752ffb197db283356ab18c175c
+|   |   |   |___28d75c8be0b41cdd6d807a4ac90a94dc841b2e
+|   |   |   |___907bc124a57ee917ea1634e284daddbe304678
+|   |   |   |___d19e1f704a6659be81addaae96de0923cd7b6a
+|   |   |   |___6f6dcca2f0d3b41e7f627708a005bfb08cc3d4
+|   |   |   |___ddb6876af2d805d580e656831ac238019979ef
+|   |   |   |___e44a7ac0ed684dd6e7bf63d84a50e4ebf9169f
+|   |   |   |___81d851902e0483010e98f17944096ee2011178
+|   |   |   |___bfc1f33a861b57df51f8a841ec7aef949d2eb5
+|   |   |   |___c7859c46c05729d2d458e09afae6025aacfce6
+|   |   |   |___7c2424e156c32fea1a3c9ff886d9d4da35c236
+|   |   |   |___63bc98657b69c167f11f0b79ab3743c85f5788
+|   |   |   |___d7f9349079302de31c1cb6080b40d34daf6e73
+|   |   |   |___d959d6768462c78302ab61a16ed876d4563d38
+|   |   |   |___c689bfa074e38ee201eddd18b80cd11ef93434
+|   |   |   |___d90339d4212ace2633f19b9da06965bc1b85f7
+|   |   |   |___0873a993fcd84a7b201756d29412bb6b626262
+|   |___HEAD
+|   |   |___exclude
+|   |   |___HEAD
+|   |   |   |   |___master
+|   |   |   |   |   |___master
+|   |___description
+|   |   |___commit-msg.sample
+|   |   |___pre-rebase.sample
+|   |   |___pre-commit.sample
+|   |   |___applypatch-msg.sample
+|   |   |___pre-receive.sample
+|   |   |___prepare-commit-msg.sample
+|   |   |___post-update.sample
+|   |   |___pre-applypatch.sample
+|   |   |___pre-push.sample
+|   |   |___update.sample
+|   |   |   |___master
+|   |   |   |   |___master
+|   |___index
+|   |___COMMIT_EDITMSG
+|   |___FETCH_HEAD
+|___googly_eyes_1.JPG
+|___googly_eyes_4.JPG
