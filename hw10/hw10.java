@@ -42,11 +42,11 @@ public class hw10 {
 }
 
 class alphabet implements Runnable {
-    String lock = "";
-    public static int i;
+    private String lock = "";
+    private static int i;
     public alphabet() { this.i = 0; }
-    public char[] abc = "abcdefghijklmnopqrstuvwxyz".toCharArray();
-    public void printChar() {
+    private char[] abc = "abcdefghijklmnopqrstuvwxyz".toCharArray();
+    private void printChar() {
         synchronized (this.lock) {
             if (i < 26) {
                 System.out.println(abc[this.i]);
