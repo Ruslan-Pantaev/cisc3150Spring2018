@@ -115,12 +115,22 @@ public class JavaCalculator {
 		}
 		return result;
 	}
+
+	// TODO throw exceptions
+
+
 	
 	public static void main(String[] args) {
 		Stack<Character> ops_stack = new Stack();
 		String postfix_str = ""; // for testing, using https://www.mathblog.dk/tools/infix-postfix-converter/
 
+		// TRY CATCH IN MAIN
+
+
 		// Evaluating pgm args & populating data structures
+		// 
+		// PUT BELOW INTO FUNCTION
+		// 
 		for (int i = 0; i < args.length; i++) {
 			char arg = args[i].charAt(0);
 			// ref http://interactivepython.org/runestone/static/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html
@@ -129,7 +139,9 @@ public class JavaCalculator {
 					// adding args[i] String since numbers can be more than one char,
 					// but using first char for evaluation
 					postfix_str += args[i] + " ";
+					// EXCEPTION cannot parse double
 			} else if (arg == '(') {
+				// EXCEPTION
 					ops_stack.push(arg);
 			} else if (arg == ')') {
 					while (!ops_stack.isEmpty() && ops_stack.peek() != '(') {
