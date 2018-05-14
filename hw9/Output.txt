@@ -1,0 +1,128 @@
+[18:59:16] (master) hw9
+// ♥ java hw9
+Running Consumer
+Consumer: No products available to consume. Gonna wait...
+Running producer
+Producer: Making more product now.
+Producer ending
+Producer: Too much product exists. Gonna wait...
+[19:04:22] (master) hw9
+// ♥ java hw9
+Running Consumer
+Consumer: No products available to consume. Gonna wait...
+Running producer
+Producer: Making more product now.
+Producer ending
+Producer: Too much product exists. Gonna wait...
+[19:11:07] (master) hw9
+// ♥ java hw9
+Running producer
+Producer: Making more product now.
+Running Consumer
+Producer ending
+Producer: Too much product exists. Gonna wait...
+Consumer: Now consuming product
+Consumer ending
+Consumer: No products available to consume. Gonna wait...
+[19:11:26] (master) hw9
+// ♥ java hw9
+Running Consumer
+Consumer: No products available to consume. Gonna wait...
+Running producer
+Producer: Making more product now.
+Producer ending
+Producer: Too much product exists. Gonna wait...
+[19:13:33] (master) hw9
+// ♥ java hw9
+Running Consumer
+Consumer: No products available to consume. Gonna wait...
+Running producer
+Producer: Making more product now.
+Producer ending
+Producer: Too much product exists. Gonna wait...
+[19:13:50] (master) hw9
+// ♥ java hw9
+Running producer
+Producer: Making more product now.
+Running Consumer
+IllegalMonitorStateException in producer!
+Producer ending
+Consumer: Now consuming product
+Producer: Too much product exists. Gonna wait...
+IllegalMonitorStateException in consumer!
+Consumer ending
+Consumer: No products available to consume. Gonna wait...
+[19:15:35] (master) hw9
+// ♥ java hw9
+Running Consumer
+Consumer: No products available to consume. Gonna wait...
+Running producer
+Producer: Making more product now.
+IllegalMonitorStateException in producer!
+Finally block in producer...
+Producer ending
+Producer: Too much product exists. Gonna wait...
+[19:17:25] (master) hw9
+// ♥ java hw9
+Running Consumer
+Consumer: No products available to consume. Gonna wait...
+Running producer
+Producer: Making more product now.
+IllegalMonitorStateException in producer!
+[19:18:02] (master) hw9
+// ♥ java hw9
+Running Consumer
+Consumer: No products available to consume. Gonna wait...
+Running producer
+Producer: Making more product now.
+Consumer: Now consuming product
+IllegalMonitorStateException in producer!
+Finally block in producer...
+Producer ending
+Producer: Making more product now.
+IllegalMonitorStateException in consumer!
+Finally block in consumer...
+Consumer ending
+Consumer: Now consuming product
+IllegalMonitorStateException in producer!
+Finally block in producer...
+Producer ending
+Producer: Making more product now.
+IllegalMonitorStateException in consumer!
+Finally block in consumer...
+Consumer ending
+Consumer: Now consuming product
+IllegalMonitorStateException in producer!
+Finally block in producer...
+Producer ending
+Producer: Making more product now.
+IllegalMonitorStateException in consumer!
+Finally block in consumer...
+Consumer ending
+Consumer: Now consuming product
+IllegalMonitorStateException in producer!
+Finally block in producer...
+Producer ending
+Producer: Making more product now.
+IllegalMonitorStateException in consumer!
+Finally block in consumer...
+Consumer ending
+Consumer: Now consuming product
+IllegalMonitorStateException in producer!
+Finally block in producer...
+Producer ending
+Producer: Making more product now.
+IllegalMonitorStateException in consumer!
+Finally block in consumer...
+Consumer ending
+Consumer: Now consuming product
+IllegalMonitorStateException in producer!
+Finally block in producer...
+Producer ending
+Producer: Making more product now.
+IllegalMonitorStateException in consumer!
+Finally block in consumer...
+Consumer ending
+.
+.
+.
